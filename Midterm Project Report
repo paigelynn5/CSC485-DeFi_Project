@@ -1,0 +1,56 @@
+Introduction
+Decentralized Finance (DeFi) is becoming one of the most popular applications of blockchain technology. 
+There is copious amounts of money being invested into the development of DeFi projects. 
+This in turn makes DeFi applications a common target of cybersecurity attacks.
+By studying various security analysis tools we can identify different vulnerabilities from DeFi applications. 
+The purpose of this project is to analyze multiple applications and observe if there are common vulnerabilities.
+
+Related Work
+Analysis of the Cyber Threats in DeFi research paper provided a framework and standardized terminology in regards to DeFi security threats. 
+Money Lego is a term used to describe exploits that have a cascading effect through interdependencies between DeFi protocols. 
+This paper also categorized four main types of attacks and provided mitigation strategies. 
+It was found that the most common attack was market attacks which targeted marketing mechanisms of multiple DeFi protocols. 
+The second most common attack was exploitation of smart contract code. Blockchain Vulnerabilities in Practice discussed these attacks in more detail. 
+The main ways to attack the contracts was via reentrancy attacks and integer overflows. 
+The best way to prevent these would be to adhere to secure coding practices. 
+Furthermore, Analyzing Financial Smart Contracts for Blockchain details the creation of a smart contract being deployed onto the blockchain using Ethereum. 
+The research paper covers the inherent vulnerabilities of blockchain technology, as well as different tools that can be used to analyze smart contracts. 
+One such tool is called Oyente. Its purpose is to detect common bugs found in smart contracts, such as reentrancy, transaction ordering dependence etc. 
+Analyzing Financial Smart Contracts for Blockchain thoroughly explains blockchain vulnerabilities in regards to smart contracts, and analysis of smart contracts using certain tools. 
+Additionally, DeFi Protocol Risks: The Paradox of DeFi heavily explains countless vulnerabilities/risks of DeFi. 
+The paper emphasizes that most of the risks with DeFi are due to the inherent nature of the blockchain, and possibly won't be able to be minimized. 
+Furthermore, it also details that as DeFi grows to become more relevant, its dependency on the existing intermediaries also grows. 
+So, its growth will depend on its ability to navigate and build compatibility with traditional finance and on how laws and regulations respond. 
+The future of DeFi is very much up in the air, and it seems that for the time being, traditional intermediaries aren’t going anywhere.
+
+Research Plan
+Decentralized Finance (DeFi) first was developed in 2017 with the beginning of the Ethereum blockchain, which coincided with the development of smart contracts. 
+DeFi smart contracts are run through open source software by a network of developers and programmers. 
+One of the purposes behind DeFi is to end the need for a central exchange. 
+The benefits of there being no central exchange are: better transparency, reduced costs, enhanced security, true traceability, improved speed and efficiency. 
+Due to the benefits listed above, the motivation behind this project is to further understand the security risks associated with the front-ends of DeFi projects on the blockchain. 
+To do this, we plan on using tools such as Slither, Mythril, and Oyente to analyze DeFi applications. 
+As well as review recent reports developed by companies. 
+The project will consist of analyzing the common vulnerabilities and observing if these vulnerabilities flow from one forked project to another. 
+DeFi is extremely susceptible to hacking and the large amount of money being poured into this service makes it a massive target. 
+The primary goal is to identify frequent vulnerabilities that are exploited and see if these vulnerabilities share association across various DeFi projects. 
+By studying existing reports we will be able to recognize the common vulnerabilities and utilizing security analysis tools we will gain an understanding of how these vulnerabilities are created. 
+
+
+Architecture 
+Decentralized Finance (DeFi) is an infrastructure for blockchains that uses Ethereum. 
+Additionally, it is run on an open source platform. DeFi consists of many layers, one of which consists of smart contracts. 
+Smart contracts are simply smaller applications on blockchains. The issue with smart contracts is that the user has little control of the execution. 
+Additionally, if there is a compromise in the code, the person responsible has inadvertently caused a breach that could potentially hurt millions. 
+
+Progress - Schedule 
+Our schedule has changed a bit, but we are still on track. 
+We originally planned to research security tools first and understand how they work. 
+However, many of our chosen research papers were able to help us with the study phase. 
+We were able to recognize many of the common vulnerabilities in DeFi projects. 
+Such as reentrancy attacks, integer overflows, market attacks, and protocol attacks that take advantage of the many blockchain components. 
+There is a subteam that is currently collecting and organizing data by reviewing papers via Github repositories. 
+Another subteam is identifying source code from existing tools with a focus on contract analysis. 
+Within the next two weeks these teams will come together and present their findings. 
+From then on we will work together to write the final report. 
+
