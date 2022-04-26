@@ -1,0 +1,24 @@
+Decentralized Finance (DeFi) is becoming one of the most popular applications of blockchain technology. 
+There is copious amounts of money being invested into the development of DeFi projects. 
+This in turn makes DeFi applications a common target of cybersecurity attacks. 
+By studying various security analysis tools we can identify different vulnerabilities from DeFi applications. 
+The purpose of this project is to analyze multiple applications and observe if there are common vulnerabilities.
+
+Through this project, we utilized three separate smart contract analysis tools, Slither, Mythril, and Mythx, 
+to assist with our analysis.
+
+If you enter into enter into Justin, Mark, or Jacob's depository, you will find instructions on how to download the 
+tool along with a link to the tool itself. 
+
+Through our research, our group concluded that there are still many projects getting hacked and losing millions of dollars in this DeFi Front-End industry. 
+Yet, our analysis showed that these projects have little vulnerabilities in their code. 
+So the real question to ask is, how are they getting hacked? 
+These attacks are composed of complex attack patterns that require a combination of various attacks and 
+practices to abuse these projects. 
+One of the main attacks involve flash loans since they are the easiest and cheapest to get away with. 
+This attack makes use of various DeFi protocols and happens in mere seconds. 
+The current security tools are limited in their ability to determine if, in the future, 
+a project will be susceptible to these complex attacks.
+
+Our group overall learned very much from the experienece and are very excited to use the skills that we learned in this
+class (CSC-485) out in the real world.
