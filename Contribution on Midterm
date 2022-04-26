@@ -1,0 +1,24 @@
+I reviewed my two different research papers to help my team get a better background
+with DeFi Front-ends. The links to my two papers: 
+
+https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf
+
+and 
+
+https://dl.acm.org/doi/pdf/10.1145/3313991.3314021
+
+I learned very much from these research papers and concluded:
+
+From "Research and Analysis of the Front-End Frameworks and Libraries in E-Business Development", 
+I concluded through the research of React.js, Vue.js, and React Native that when 
+it comes to E-Businesses, Angular 2 provides the most suitable solution in data
+processing combined with one-way and two-way binding. The research also explains how React has high efficiency in rendering updated DOM 
+and its powerful technical support and durable API to allow developers to avoid updates and immigration.
+
+From "DeFi Beyond the Hype", I concluded that DeFi is still very immature when it comes to
+security. There are a lot of unresolved issues still involved with DeFi and there are 
+programmers working all over the world to try to fix these issues. But overall, DeFi 
+is the future of technology and there is great potential for DeFi all the way around.
+
+We then used this information to pick three different tools that we started to use 
+in order to get an analysis from the different audits and smart contracts. 
